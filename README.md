@@ -1,2 +1,2 @@
-my first readme
+Alx course is great
 alx end:
